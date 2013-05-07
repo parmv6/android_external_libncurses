@@ -31,4 +31,3 @@ LOCAL_MODULE_TAGS := eng
 LOCAL_MODULE := libncurses
 
 include $(BUILD_SHARED_LIBRARY)
-
